@@ -1,7 +1,7 @@
 Github Wideload
 ===============
 
-This Chrome extension widens github content to display as 1200px.  This is useful if one has to view project with code lines that are long.
+This Chrome extension widens github content to display as 1200px (~1000px for the *new* github).  This is useful if one has to view project with code lines that are long.
 
 
 Installation
