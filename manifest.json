@@ -3,7 +3,7 @@
 
   "name": "Github Wideload",
   "description": "This extension widens the code review viewing area so that you don't have to scroll horizontally to see long lines of code.",
-  "version": "0.1",
+  "version": "1.1",
 
   "permissions": [
     "https://github.com/*"

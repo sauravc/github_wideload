@@ -2,3 +2,12 @@
 div.container, div.breakout, #slider .frames .frame {
     width: 1200px !important;
 }
+
+div.repo-container.with-full-navigation #js-repo-pjax-container {
+    width: 1020px;
+}
+
+div.repo-container #js-repo-pjax-container {
+    width: 1150px;
+}
+
