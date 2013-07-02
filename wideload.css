@@ -11,3 +11,6 @@ div.repo-container #js-repo-pjax-container {
     width: 1150px;
 }
 
+body.page-profile div.container .profilecols .last {
+    width: 940px;
+}
